@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1681307924 source:c:\mishel\proyecto\prototipo\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<cstdlib>
+
+1681796115 source:c:\users\mishel\desktop\prototipo\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1681925768 source:c:\users\mishel\desktop\progra1\proyectos\tareasprograuno2k24\prototipo2pp12024\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+
+1713327079 source:c:\users\mishel\onedrive\prototipo2pp1p2024\prototipo2pp12024\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+
