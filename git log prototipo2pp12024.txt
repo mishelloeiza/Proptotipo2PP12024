@@ -1,0 +1,86 @@
+50259@LAPTOP-DP4U74K3 MINGW64 ~/OneDrive/Prototipo2PP1P2024/Proptotipo2PP12024 (main)
+$ git log
+commit 9dc934c46082323390357838e733858e5c8753cf (HEAD -> main, origin/main, origin/HEAD)
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed Apr 17 11:21:14 2024 -0600
+
+    Main 9959233457
+
+commit 144a3fd4e83ab9159b65c61e5138f5f040bf4b7f
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed Apr 17 11:19:12 2024 -0600
+
+    RamaCrudUsuario9959233457
+
+commit 05938d830f539eb634d9fd414ddb5833e990e3f5
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed Apr 17 11:17:22 2024 -0600
+
+    RamaMenuGeneral9959233457
+
+commit 796dd69dc6981e05ee9cdcd339d8b1cea4e0a23b
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed Apr 17 11:16:55 2024 -0600
+
+    Prototipo2pp12024
+
+commit b12ac7e55ffbd7491812b9d55c236c0a41e99f0d
+Author: Diana Mishel Loeiza Ramìrez <dloeizar@miumg.edu.gt>
+Date:   Wed Apr 17 11:16:43 2024 -0600
+
+    Create README.md
+...skipping...
+commit 9dc934c46082323390357838e733858e5c8753cf (HEAD -> main, origin/main, orig
+in/HEAD)
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed Apr 17 11:13:14 2024 -0600
+
+    Main 9959233457
+
+commit 144a3fd4e83ab9159b65c61e5138f5f040bf4b7f
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed Apr 17 11:09:12 2024 -0600
+
+    RamaCrudUsuario9959233457
+
+commit 05938d830f539eb634d9fd414ddb5833e990e3f5
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed Apr 17 11:02:22 2024 -0600
+
+    RamaMenuGeneral9959233457
+
+commit 796dd69dc6981e05ee9cdcd339d8b1cea4e0a23b
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed Apr 17 10:55:01 2024 -0600
+
+    Prototipo2pp12024
+
+commit b12ac7e55ffbd7491812b9d55c236c0a41e99f0d
+Author: Diana Mishel Loeiza Ramìrez <dloeizar@miumg.edu.gt>
+Date:   Wed Apr 17 10:48:43 2024 -0600
+
+    Create README.md
+...skipping...
+commit 144a3fd4e83ab9159b65c61e5138f5f040bf4b7f
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed Apr 17 10:46:12 2024 -0600
+
+    RamaCrudUsuario9959233457
+
+commit 05938d830f539eb634d9fd414ddb5833e990e3f5
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed Apr 17 10:42:22 2024 -0600
+
+    RamaMenuGeneral9959233457
+
+commit 796dd69dc6981e05ee9cdcd339d8b1cea4e0a23b
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed Apr 17 10:35:01 2024 -0600
+
+    Prototipo2pp12024
+
+commit b12ac7e55ffbd7491812b9d55c236c0a41e99f0d
+Author: Diana Mishel Loeiza Ramìrez <dloeizar@miumg.edu.gt>
+Date:   Wed Apr 17 10:15:43 2024 -0600
+
+    Create README.md
