@@ -1,5 +1,5 @@
 
-//Diana Mishel Loeiza Ramìrez
+//Diana Mishel Loeiza Ramirez
 //9959-23-3457
 
 #include <iostream>
@@ -105,12 +105,12 @@ int main() {
         cout << "             *========================================*"<< endl;
         cout << "             |   Porfavor, elije una opcion           |"<< endl;
         cout << "             |                                        |"<< endl;
-        cout << "             | 1. DATOS DEL CATALOGO                  |"<< endl;
-        cout << "             | 2. DESPLEGAR INFORMES                  |"<< endl;
-        cout << "             | 3. CREDITOS DEL ESTUDIANTE             |"<< endl;
+        cout << "             | 1. DATOS DEL CATALOGO.                 |"<< endl;
+        cout << "             | 2. DESPLEGAR INFORMES .                 |"<< endl;
+        cout << "             | 3. CREDITOS DEL ESTUDIANTE  .           |"<< endl;
         cout << "             | 4. SALIR DEL SISTEMA                   |"<< endl;
         cout << "             |                                        |"<< endl;
-        cout << "             | Ingresa una Opcion :                   |"<< endl;
+        cout << "             | Ingresa una Opcion  porfavor:                   |"<< endl;
         cout << "             |                                        |"<< endl;
         cout << "             *========================================*"<< endl;
 
@@ -146,7 +146,7 @@ int main() {
                         cout << "         (_____)-----------------------------------(_____)"<< endl;
                         cout << "        -------------------------------------------------"<< endl;
                         cout << "             *========================================*"<< endl;
-                        cout << "             |   Porfavor, elije una opcion           |"<< endl;
+                        cout << "             |   Porfavor, elije una opcion porfavor          |"<< endl;
                         cout << "             |                                        |"<< endl;
                         cout << "             | 1. Alta                                |"<< endl;
                         cout << "             | 2. Baja                                |"<< endl;
@@ -173,7 +173,7 @@ int main() {
                 cout << "          __^__                                     __^__"<< endl;
                 cout << "         ( ___ )-----------------------------------( ___ )"<< endl;
                 cout << "          | / |                                     | / |"<< endl;
-                cout << "          | / |               INFORMES              | / |"<< endl;
+                cout << "          | / |               INFORMES .             | / |"<< endl;
                 cout << "          |___|                                     |___|"<< endl;
                 cout << "         (_____)-----------------------------------(_____)"<< endl;
                 cout << "        -------------------------------------------------"<< endl;
@@ -188,16 +188,16 @@ int main() {
                 cin >> opcionInformes;
                 switch (opcionInformes) {
                     case 1: {
-                        // Realizar la impresión a TXT
+                        // Realizar la impresiï¿½n a TXT
                         cout << "Impresion a TXT de estructuras" << endl;
                         break;
                     }
                     case 2: {
-                        // Volver al menú general
+                        // Volver al menï¿½ general
                         break;
                     }
                     default: {
-                        // Opción inválida
+                        // Opciï¿½n invï¿½lida
                         cout << "Opcion invalida" << endl;
                         break;
                     }
@@ -214,7 +214,7 @@ int main() {
                 cout << "                *=================================* "<< endl;
                 cout << "                                                    "<< endl;
                 cout << "                  NUMERO DE CARNET: 9959-23-3457    "<< endl;
-                cout << "                  NOMBRE: Diana Mishel Loeiza Ramìrez"<< endl;
+                cout << "                  NOMBRE: Diana Mishel Loeiza Ramï¿½rez"<< endl;
                 cout << "                  CARRERA: INGENIERIA EN SISTEMAS   "<< endl;
                 cout << "                  SEMESTRE: TERCERO                 "<< endl;
                 cout << "                  CURSO: PROGRAMACION 1             "<< endl;
